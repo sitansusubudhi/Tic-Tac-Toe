@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Problems/Cinema/out/
+/Problems/Cinema/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/Sum of neighbors/out/
+/Problems/Sum of neighbors/out/production/classes/
+/Problems/Swap the columns/out/
+/Problems/Swap the columns/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
+/Topics/Switch statement/A simple calculator/out/
+/Topics/Switch statement/A simple calculator/out/production/classes/
